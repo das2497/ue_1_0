@@ -1,0 +1,13 @@
+# Unreal Engine Temporary Files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio Temporary Files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
