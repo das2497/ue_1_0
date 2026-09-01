@@ -1,13 +1,11 @@
 # Unreal Engine Temporary Files
+.vs/
 Binaries/
 Build/
 DerivedDataCache/
 Intermediate/
 Saved/
-
-# Visual Studio Temporary Files
-.vs/
 *.sln
-*.suo
-*.opensdf
-*.sdf
+
+# Arena.ai එකට අනවශ්‍ය විශාල Assets ඉවත් කිරීම
+Content/
